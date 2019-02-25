@@ -1,0 +1,14 @@
+Welcome to JavaMatic
+
+To start this program, simply compile and run the JavaMatic.java file in the terminal
+like so:
+	> javac JavaMatic.java
+	> java JavaMatic
+
+The machine's current inventory and drink menu are printed to the terminal, and you may
+type in the following commands:
+	- "r" or "R":  Restock JavaMachine's inventory.
+	- "q" or "Q":  Quit the program.
+	- [1 - 6]:     The number representing the drink you wish to order
+
+by Leah Chung
